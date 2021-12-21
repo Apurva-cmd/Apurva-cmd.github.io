@@ -1,6 +1,10 @@
 # Arya Apurva
-##### Gmail-id : apurva6749@gmail.com
-## Education
+
+### Contact-Me
+
+Gmail-id : apurva6749@gmail.com
+
+### Education
 - B.Sc. Programming and Data Science
 
     IIT Madras
